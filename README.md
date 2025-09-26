@@ -37,6 +37,7 @@
 - **Most** of my projects are kept **confidential** due to their association with my earlier experiences in youth entrepreneurship, or other ventures I choose to keep **discreet**.
 
 * **[DB Storage Manager](https://github.com/VoxHash/DB_Storage_Manager)** An application to download databases from a PHP API and upload them to Google Drive securely.
+* **[Nuvana Club]([https://github.com/VoxHash/DB_Storage_Manager](https://github.com/Nuvana-Club/Source-Code))** A cannabis strain catalog and personal grow logging application built with Next.js, Prisma, and NextAuth.
 
 <details>
   <summary>📈 Personal Stats</summary>
