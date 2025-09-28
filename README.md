@@ -1,91 +1,65 @@
-<h1 align="center">Howdy Partner! 👽✨</h1>
+# 👋 Hi, I’m VoxHash (Silas Renner)
 
-<p align="center">
-  <a href="https://github.com/VoxHash">
-    <img src="https://github-stats-alpha.vercel.app/api?username=VoxHash&cc=151515&tc=FFFFFF&ic=DAAE29&bc=FFFFFF">
-  </a>
-</p>
+🚀 **AI Engineer | Blockchain & Web3 Developer | Entrepreneur**
 
-<h3 align="center">About me </h3>
-<p align="center">
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=VoxHash&label=Profile%20Visits&style=for-the-badge" />
-</p>
+Welcome to my GitHub profile!  
+I design and build scalable apps, automation tools, and blockchain solutions that merge creativity with engineering. My work spans **AI agents, licensing platforms, automation SDKs, creative apps, and cross-platform tools**—all projects I’ve built to be **production-focused and scalable.**
 
-<p align="center">I am an AI engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating apps and automation tools.</p>
+---
 
-<p align="center">I also have experience in video editing and social media management, using Adobe Premiere Pro, Adobe After Effects, CapCut, Instagram, Twitter, and Facebook to create and manage client projects.</p>
+## 🧑‍💻 About Me
+- 🎓 Background: Bachelor’s in **Animation, Interactive Technology, VFX, and Special Effects**.  
+- 🔭 Currently: Building [LicenseChain](https://licensechain.app) — a SaaS licensing platform for software, APIs, and dApps.  
+- ⚡ Passionate about **AI engineering, automation, Web3, calisthenics**, and creating tools that help communities.  
+- ✨ Vision: Build technology that inspires creativity, ensures security, and scales globally.  
 
-<h3 align="center">Contact me</h3>
-<p align="center">
-  <a href="https://t.me/VoxHash"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
-</p>
+---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Programming Languages (Most Used): JavaScript, Python, PHP
-- Technologies (Most Used): TailwindCSS, MYSQL, WordPress, Express.js, Nginx, Apache2
-- Cloud Engineering: Oracle Cloud
-- Tools: Git, GitHub, VSCode, PHPMailer, Postman
-- Soft Skills: Communication, teamwork, problem-solving, marketing, social media management
+**Languages:**  
+- JavaScript • Python • PHP • C# • C++ • Rust • Solidity  
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+**Frameworks & Tools:**  
+- React / Next.js • TailwindCSS • Express.js • PyQt5/6 • Node.js • Prisma  
+- WordPress • MySQL • PostgreSQL • Nginx • Apache2 • Docker  
 
-## Projects
+**Cloud & DevOps:**  
+- Oracle Cloud • GitHub Actions • VPS Automation • NGINX Reverse Proxy  
 
-- **Most** of my projects are kept **confidential** due to their association with my earlier experiences in youth entrepreneurship, or other ventures I choose to keep **discreet**.
+**Other Skills:**  
+- Git & GitHub • OAuth 2.0 • PHPMailer • Postman • Video Editing (Premiere, After Effects, CapCut)  
+- Soft Skills: Communication, teamwork, problem-solving, marketing, social media management  
 
-* **[Vox AI Chatbot](https://github.com/VoxHash/Vox-AI-Chatbot)** A multi-platform AI chatbot with support for web, Discord, WhatsApp, Slack, and Telegram integrations.
-* **[Telegram Multi-Account Message Sender](https://github.com/VoxHash/Telegram-Multi-Account-Message-Sender)** Desktop application for managing and sending messages across multiple Telegram accounts safely with advanced features like scheduling, spintax, media support, and compliance controls.
-* **[Nuvana Club](https://github.com/Nuvana-Club/Source-Code)** A cannabis strain catalog and personal grow logging application built with Next.js, Prisma, and NextAuth.
+---
 
-<details>
-  <summary>📈 Personal Stats</summary>
-  <br>
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoxHash&theme=darcula">
-  </p>
-  
-  <table>
-  
-  | Github Stats | Streak | Top Languages |
-  | --- | --- | --- |
-  | ![VoxHash's github stats](https://github-readme-stats.vercel.app/api?username=VoxHash&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)  | <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoxHash&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&hide_border=false" alt="Streak">  | ![VoxHash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoxHash&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-  
-  </table>
+## 🌟 Highlight Projects
 
-</details>
+🔹 **[LicenseChain](https://github.com/LicenseChain/LicenseChain)** — SaaS platform for software licensing & blockchain integration.  
+🔹 **[Telegram Multi-Account Message Sender](https://github.com/VoxHash/Telegram-Multi-Account-Message-Sender)** — Multi-account sender with scheduling, spintax, media support.  
+🔹 **[Nuvana Club](https://nuvana.club)** — Cannabis strain catalog & grow logging app (Next.js + Prisma).  
+🔹 **[Vox AI Chatbot](https://github.com/VoxHash/Vox-AI-Chatbot)** — Multi-platform AI chatbot (Web, Discord, WhatsApp, Slack, Telegram).  
+🔹 **[KillerTools](https://github.com/VoxHash/KillerTools)** — Swiss-army toolkit for developers & power users.  
+🔹 **[DB_Storage_Manager](https://github.com/VoxHash/DB_Storage_Manager)** — Smart storage & theme-adaptive DB manager.  
+🔹 **[ForexSmartBot](https://github.com/VoxHash)** — Customizable trading bot with adaptive risk management.  
 
-## Remember
-```php
-function work_life_balance($task, $mood = 'neutral') {
-    // Fun emojis based on mood
-    $fun_emojis = array(
-        'happy' => '😄',
-        'neutral' => '😐',
-        'sad' => '😞'
-    );
+> Many of my projects are private (client work, stealth projects, or early ventures) but each public repo reflects **production-level engineering** and is built with **scale and professionalism in mind**.
 
-    // Professional advice based on mood
-    $professional_advice = array(
-        'happy' => "Great! But don't forget your responsibilities.",
-        'neutral' => "Stay balanced, don't overwork or overplay.",
-        'sad' => "Maybe take a short break and come back stronger."
-    );
+---
 
-    // Check if mood is valid
-    if (!array_key_exists($mood, $fun_emojis)) {
-        return "Invalid mood! Please choose between 'happy', 'neutral', or 'sad'.";
-    }
+## 📊 GitHub Stats
+![VoxHash GitHub stats](https://github-readme-stats.vercel.app/api?username=VoxHash&show_icons=true&theme=radical&size=medium)  
+![GitHub Streak](https://streak-stats.demolab.com?user=VoxHash&theme=radical&size=medium)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoxHash&layout=compact&theme=radical&size=medium)
+---
 
-    // Construct the message
-    return "Task to complete: $task " . $fun_emojis[$mood] . ". "
-           . "Advice: " . $professional_advice[$mood];
-}
+## 🌍 Let’s Connect
+- 🌐 Website: [voxhash.dev](https://voxhash.dev)  
+- 💬 Telegram: [@voxhash](https://t.me/voxhash)  
 
-// Example usage
-$message = work_life_balance("Complete PHP project", "happy");
-echo $message;
+---
 
-```
+## 💡 Quote I Live By
+> *“Build tools that outlast trends. Solve problems that matter.”*
+
+---
