@@ -48,9 +48,13 @@ I design and build scalable apps, automation tools, and blockchain solutions tha
 ---
 
 ## 📊 GitHub Stats
-![VoxHash GitHub stats](https://github-readme-stats.vercel.app/api?username=VoxHash&show_icons=true&theme=radical&size=medium)  
-![GitHub Streak](https://streak-stats.demolab.com?user=VoxHash&theme=radical&size=medium)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoxHash&layout=compact&theme=radical&size=medium)
+
+<p align="center">
+  <img width="300" src="https://github-readme-stats.vercel.app/api?username=voxhash&show_icons=true&theme=radical" />
+  <img width="300" src="https://streak-stats.demolab.com?user=VoxHash&theme=radical" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoxHash&layout=compact&theme=radical" />
+</p>
+
 ---
 
 ## 🌍 Let’s Connect
