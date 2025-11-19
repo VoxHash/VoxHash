@@ -41,7 +41,7 @@ I design and build scalable apps, automation tools, and blockchain solutions tha
 🔹 **[Vox AI Chatbot](https://github.com/VoxHash/Vox-AI-Chatbot)** — Multi-platform AI chatbot (Web, Discord, WhatsApp, Slack, Telegram).  
 🔹 **[KillerTools](https://github.com/VoxHash/KillerTools)** — Swiss-army toolkit for developers & power users.  
 🔹 **[DB_Storage_Manager](https://github.com/VoxHash/DB_Storage_Manager)** — Smart storage & theme-adaptive DB manager.  
-🔹 **[ForexSmartBot](https://github.com/VoxHash)** — Customizable trading bot with adaptive risk management.  
+🔹 **[ForexSmartBot](https://github.com/VoxHash/ForexSmartBot)** — Customizable trading bot with adaptive risk management.  
 
 > Many of my projects are private (client work, stealth projects, or early ventures) but each public repo reflects **production-level engineering** and is built with **scale and professionalism in mind**.
 
