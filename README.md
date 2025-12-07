@@ -9,7 +9,7 @@ I design and build scalable apps, automation tools, and blockchain solutions tha
 
 ## 🧑‍💻 About Me
 - 🎓 Background: Bachelor’s in **Animation, Interactive Technology, VFX, and Special Effects**.  
-- 🔭 Currently: Building [LicenseChain](https://licensechain.app) — a SaaS licensing platform for software, APIs, and dApps.  
+- 🔭 Currently: Building [LicenseChain](https://www.licensechain.app) — a SaaS licensing platform for software, APIs, and dApps.  
 - ⚡ Passionate about **AI engineering, automation, Web3, calisthenics**, and creating tools that help communities.  
 - ✨ Vision: Build technology that inspires creativity, ensures security, and scales globally.  
 
@@ -35,9 +35,9 @@ I design and build scalable apps, automation tools, and blockchain solutions tha
 
 ## 🌟 Highlight Projects
 
-🔹 **[LicenseChain](https://github.com/LicenseChain/LicenseChain)** — SaaS platform for software licensing & blockchain integration.  
+🔹 **[LicenseChain](https://github.com/LicenseChain)** — SaaS platform for software licensing & blockchain integration.  
 🔹 **[Telegram Multi-Account Message Sender](https://github.com/VoxHash/Telegram-Multi-Account-Message-Sender)** — Multi-account sender with scheduling, spintax, media support.  
-🔹 **[Nuvana Club](https://nuvana.club)** — Cannabis strain catalog & grow logging app (Next.js + Prisma).  
+🔹 **[Nuvana Club](https://github.com/NuvanaClub)** — Cannabis strain catalog & grow logging app (Next.js + Prisma).  
 🔹 **[Vox AI Chatbot](https://github.com/VoxHash/Vox-AI-Chatbot)** — Multi-platform AI chatbot (Web, Discord, WhatsApp, Slack, Telegram).  
 🔹 **[KillerTools](https://github.com/VoxHash/KillerTools)** — Swiss-army toolkit for developers & power users.  
 🔹 **[DB_Storage_Manager](https://github.com/VoxHash/DB_Storage_Manager)** — Smart storage & theme-adaptive DB manager.  
