@@ -38,7 +38,7 @@ I design and build scalable apps, automation tools, and blockchain solutions tha
 🔹 **[LicenseChain](https://github.com/LicenseChain)** — SaaS platform for software licensing & blockchain integration.  
 🔹 **[Telegram Multi-Account Message Sender](https://github.com/VoxHash/Telegram-Multi-Account-Message-Sender)** — Multi-account sender with scheduling, spintax, media support.  
 🔹 **[Nuvana Club](https://github.com/NuvanaClub)** — Cannabis strain catalog & grow logging app (Next.js + Prisma).  
-🔹 **[Vox AI Chatbot](https://github.com/VoxHash/Vox-AI-Chatbot)** — Multi-platform AI chatbot (Web, Discord, WhatsApp, Slack, Telegram).  
+🔹 **[Scarlett Help](https://github.com/VoxHash/Scarlett-Help)** — Multi-platform AI chatbot (Web, Discord, WhatsApp, Slack, Telegram).  
 🔹 **[KillerTools](https://github.com/VoxHash/KillerTools)** — Swiss-army toolkit for developers & power users.  
 🔹 **[DB_Storage_Manager](https://github.com/VoxHash/DB_Storage_Manager)** — Smart storage & theme-adaptive DB manager.  
 🔹 **[ForexSmartBot](https://github.com/VoxHash/ForexSmartBot)** — Customizable trading bot with adaptive risk management.  
